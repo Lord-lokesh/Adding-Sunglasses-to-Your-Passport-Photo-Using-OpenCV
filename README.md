@@ -155,6 +155,9 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 <img width="1235" height="816" alt="image" src="https://github.com/user-attachments/assets/e26884e0-b47a-432a-9b1e-769edfb4ce8e" />
 
+# Result
+Program for adding Sunglasses to a Passport Photo Using OpenCV, Successfully executed
+
 
 
 
